@@ -1,0 +1,33 @@
+#first {
+    color: white;
+    background-color: black;
+}
+
+#second {
+    background-color: yellow;
+}
+
+.common {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+/* Other solution would be: Use a fancy and inverted (doesn't have to be
+fancy or inverted per se, is just an example)
+ class names for the buttons in html and then in css:
+
+ .inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+.fancy {
+  background-color: yellow;
+}
+*/
